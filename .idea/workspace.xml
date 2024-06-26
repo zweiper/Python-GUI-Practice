@@ -36,7 +36,7 @@
     "Python.pracProgram1.executor": "Run",
     "Python.pracProgram2.executor": "Run",
     "Python.pracProgram3.executor": "Run",
-    "Python.pracProgram4.executor": "Debug",
+    "Python.pracProgram4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Github/Python-GUI-Practice",
@@ -93,7 +93,7 @@
       <updated>1719392995110</updated>
       <workItem from="1719392996257" duration="5597000" />
       <workItem from="1719398657538" duration="602000" />
-      <workItem from="1719399274598" duration="1073000" />
+      <workItem from="1719399274598" duration="1453000" />
     </task>
     <servers />
   </component>
@@ -105,7 +105,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -116,7 +122,7 @@
     <SUITE FILE_PATH="coverage/Python_GUI_Practice$pracProgram3.coverage" NAME="pracProgram3 Coverage Results" MODIFIED="1719398354690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_GUI_Practice$entry.coverage" NAME="entry Coverage Results" MODIFIED="1719399378691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_GUI_Practice$pracProgram1.coverage" NAME="pracProgram1 Coverage Results" MODIFIED="1719399884788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_GUI_Practice$pracProgram4.coverage" NAME="pracProgram4 Coverage Results" MODIFIED="1719400357437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_GUI_Practice$pracProgram4.coverage" NAME="pracProgram4 Coverage Results" MODIFIED="1719400624365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_GUI_Practice$listbox.coverage" NAME="listbox Coverage Results" MODIFIED="1719393304478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_GUI_Practice$pracProgram2.coverage" NAME="pracProgram2 Coverage Results" MODIFIED="1719395357486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
